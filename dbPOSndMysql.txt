@@ -1,0 +1,9 @@
+create database prueba;
+use prueba;
+create table personal(
+dni varchar(50),
+nombre varchar(50),
+apellido varchar(50),
+celular varchar(50),
+correo varchar(50)
+);
